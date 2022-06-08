@@ -1,0 +1,20 @@
+@charset "utf-8";
+.slide {
+    position: relative;
+    -webkit-animation-name: slide; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+  }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes slide {
+	from {left:100%;}
+	to {left:0px;}
+}
+@keyframes slide {
+	from {left:100%;}
+	to {left:0px;}
+}

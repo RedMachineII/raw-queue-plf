@@ -1,0 +1,105 @@
+.btn-new {
+  cursor: pointer;
+  background-color: #14d987;
+  color: #ffffff;
+  border: none;
+}
+.btn-new:hover, .btn-new:active, .btn-new.focus, .btn-new:focus {
+  background-color: #ffffff;
+  color: #14d987;
+  box-shadow: 0px 0px 5px 0px #14d987;
+}
+.btn-new.disabled {
+  color: #14d987;
+  background-color: #b8ffe2;
+}
+.btn-save {
+  cursor: pointer;
+  background-color: #3467f3;
+  color: #ffffff;
+  border: none;
+}
+.btn-save:hover, .btn-save:active, .btn-save.focus, .btn-save:focus {
+  background-color: #ffffff;
+  color: #3467f3;
+  box-shadow: 0px 0px 5px 0px #3467f3;
+}
+.btn-save.disabled {
+  color: #3467f3;
+  background-color: #c6d6ff;
+}
+.btn-edit {
+  cursor: pointer;
+  background-color: #f35134;
+  color: #ffffff;
+  border: none;
+}
+.btn-edit:hover, .btn-edit:active, .btn-edit.focus, .btn-edit:focus {
+  background-color: #ffffff;
+  color: #f35134;
+  box-shadow: 0px 0px 5px 0px #f35134;
+}
+.btn-edit.disabled {
+  color: #f35134;
+  background-color: #ffc4b9;
+}
+.btn-delete {
+  cursor: pointer;
+  background-color: #9d52ff;
+  color: #ffffff;
+  border: none;
+}
+.btn-delete:hover, .btn-delete:active, .btn-delete.focus, .btn-delete:focus {
+  background-color: #ffffff;
+  color: #9d52ff;
+  box-shadow: 0px 0px 5px 0px #9d52ff;
+}
+.btn-delete.disabled {
+  color: #9d52ff;
+  background-color: #e2ccff;
+}
+.btn-cancel {
+  cursor: pointer;
+  background-color: #f83455;
+  color: #ffffff;
+  border: none;
+}
+.btn-cancel:hover, .btn-cancel:active, .btn-cancel.focus, .btn-cancel:focus {
+  background-color: #ffffff;
+  color: #f83455;
+  box-shadow: 0px 0px 5px 0px #f83455;
+}
+.btn-cancel.disabled {
+  color: #f83455;
+  background-color: #ffcad3;
+}
+.btn-refresh {
+  cursor: pointer;
+  background-color: #17a2b8;
+  color: #ffffff;
+  border: none;
+}
+.btn-refresh:hover, .btn-refresh:active, .btn-refresh.focus, .btn-refresh:focus {
+  background-color: #ffffff;
+  color: #17a2b8;
+  box-shadow: 0px 0px 5px 0px #17a2b8;
+}
+.btn-refresh.disabled {
+  color: #17a2b8;
+  background-color: #b0f4ff;
+}
+.btn-search {
+  cursor: pointer;
+  background-color: #8db817;
+  color: #ffffff;
+  border: none;
+}
+.btn-search:hover, .btn-search:active, .btn-search.focus, .btn-search:focus {
+  background-color: #ffffff;
+  color: #8db817;
+  box-shadow: 0px 0px 5px 0px #8db817;
+}
+.btn-search.disabled {
+  color: #8db817;
+  background-color: #dff899;
+}
