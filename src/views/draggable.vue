@@ -118,7 +118,7 @@
   import draggable from "vuedraggable";
 
   export default {
-    name: "Sequencing",
+    name: "rm-sequencing",
     components: {
       Loading,
       Navbar,
