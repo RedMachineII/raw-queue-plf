@@ -12,7 +12,7 @@
               v-model="tabIndex"
               content-class="mt-3"
             >
-              <b-tab title="นำเข้าแผน" :title-link-class="linkClass(0)">
+              <b-tab title="นำเข้าแผน555" :title-link-class="linkClass(0)">
                 <b-row class="row p-1">
                   <b-col class="col-12">
                     <Importplan />
